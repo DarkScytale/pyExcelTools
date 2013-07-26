@@ -1,0 +1,3 @@
+This script generates a simple Excel file containing colors definition for cells.
+
+Sebastien VINOT - sebastien.vinot@logisphere.fr
